@@ -27,12 +27,13 @@
 
 button {
     height: 80px;
-    background-color: gray;
+    background-color: rgb(72, 158, 185);
     border: 1px solid black;
     font-size: 32px;
     color: black;
     width: 25%;
     outline: none;
+    
 }
 
 .all-clear, .zero-btn {
@@ -40,7 +41,7 @@ button {
 }
 
 .operator, .equal-sign {
-    background-color: orange;
+    background-color: rgb(229, 181, 91);
 }
 
 button:hover {
